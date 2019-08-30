@@ -7,5 +7,5 @@ utils.clear()                       # clear the screen
 
 
 print('Greetings!')
-color = input("red? ")
+color = input("What is your favorite color?")
 print(color)
